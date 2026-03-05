@@ -27,3 +27,6 @@ This project is licensed under the **GNU General Public License v3.0**.
 
 ---
 *Created as a digital trail from the noumenal to the phenomenal world.*
+
+---
+*Created as a digital trail from the noumenal to the phenomenal world.*
