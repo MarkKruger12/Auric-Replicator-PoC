@@ -10,49 +10,41 @@ This repository serves as a digital and phenomenal record of the logic and geome
 ## 🔬 Scientific Purpose
 The files in this repository provide the mathematical verification for achieving a **Topological Resonance Lock** at **148.5 kHz**. This is the fundamental frequency required to manifest the "Active-Silence" condition within a 1.0-inch hexagonal aperture.
 
-## 🛠️ Global Bill of Materials (BOM)
-* **Magnets**: 7x N52 Neodymium Discs (1.0" x 0.25")
-* **Warp Wire**: 24 AWG Enameled Copper
-* **Shield Wire**: 22 AWG Enameled Copper
-* **Frequency Target**: 148.5 kHz
+## 📊 Table of Elemental Resonant Frequencies
+To achieve the **Active-Silence** condition for specific elemental targets within the 1.0" aperture, the following frequency and current parameters must be maintained:
 
-## 📊 Resonance Spectrum (Secondary Harmonics)
-While 148.5 kHz is the primary Topological Lock, the following frequencies have been identified as supporting nodes for the Active-Silence condition:
+| Target Element | Atomic Number (Z) | Target Resonance (f) | Peak Current (Ip) |
+| :--- | :--- | :--- | :--- |
+| **Gold (Au)** | 79 | **148.5 kHz** | 2.5A - 5.0A |
+| **Silver (Ag)** | 47 | **175.2 kHz** | 2.0A - 4.5A |
+| **Platinum (Pt)** | 78 | **152.1 kHz** | 2.8A - 5.2A |
+| **Copper (Cu)** | 29 | **198.4 kHz** | 1.8A - 3.5A |
+| **Palladium (Pd)** | 46 | **168.9 kHz** | 2.2A - 4.0A |
+| **Iron (Fe)** | 26 | **212.3 kHz** | 1.5A - 3.0A |
 
-* **Primary Lock:** 148.5 kHz (The Fundamental)
-* **First Harmonic:** 297.0 kHz (The Octave)
-* **The "Golden" Ratio Node:** 240.3 kHz (Geometric Convergence)
-* **Sub-Resonance:** 74.25 kHz (The Foundation Pulse)
-
-*Note: Achieving the "Active-Silence" condition at these secondary frequencies requires precise calibration of the 24 AWG Warp Wire tension.*
+[cite_start]*Data derived from Source Table of Elemental Resonant Frequencies.* [cite: 1, 2, 3, 4]
 
 ## 🏗️ Hardware Assembly Guide
 
 ### Phase 1: The Hexagonal Magnetic "Eye"
 The foundation of the device is the 7-magnet array. The spacing is critical to ensure the B-field cancels at the dead center.
-1. **Center Point:** Place the first N52 magnet at $(0,0)$.
+1. **Center Point:** Place the first N52 magnet at (0,0).
 2. **The Ring:** Arrange the remaining 6 magnets in a perfect hexagon around the center.
 3. **Spacing:** Ensure the distance from the center of the middle magnet to the center of any outer magnet is exactly **25.4 mm** (1.0 inch).
 4. **Polarity:** All magnets must have their **North poles** facing the same vertical direction.
 
-
-
 ### Phase 2: The Bifilar "Warp" Winding
-To achieve the 148.5 kHz resonance lock, the coil must be wound to cancel self-induction.
+To achieve the resonance lock, the coil must be wound to cancel self-induction.
 1. **The Mandrel:** Use a non-metallic spool with a **1.0-inch** inner diameter.
 2. **The Double-Wrap:** Take two strands of **24 AWG Enameled Copper** wire and wind them simultaneously (side-by-side).
-3. **Turns:** Complete **144 turns** (optimized for the 148.5 kHz target).
+3. **Turns:** Complete **144 turns** (optimized for the target range).
 4. **The Connection:** Connect the *end* of the first strand to the *start* of the second strand.
-
-
 
 ### Phase 3: The Lorentz-Trigger Integration
 1. **Frequency Input:** Connect a PWM signal generator to a MOSFET-based power stage.
-2. **Calibration:** Set the base frequency to **148.5 kHz**.
+2. **Calibration:** Set the target frequency based on the Elemental Table above.
 3. **Voltage Ramp:** Slowly increase the DC supply from **48V toward 120V**.
-4. **Verification:** Monitor for a collapse in magnetic flux ($B \rightarrow 0$) and a peak in the Magnetic Vector Potential ($A$).
-
----
+4. **Verification:** Monitor for a collapse in magnetic flux (B -> 0) and a peak in the Magnetic Vector Potential (A).
 
 ## 📜 License
 This project is licensed under the **GNU General Public License v3.0**. 
