@@ -16,7 +16,15 @@ The files in this repository provide the mathematical verification for achieving
 * **Shield Wire**: 22 AWG Enameled Copper
 * **Frequency Target**: 148.5 kHz
 
----
+## 📊 Resonance Spectrum (Secondary Harmonics)
+While 148.5 kHz is the primary Topological Lock, the following frequencies have been identified as supporting nodes for the Active-Silence condition:
+
+* **Primary Lock:** 148.5 kHz (The Fundamental)
+* **First Harmonic:** 297.0 kHz (The Octave)
+* **The "Golden" Ratio Node:** 240.3 kHz (Geometric Convergence)
+* **Sub-Resonance:** 74.25 kHz (The Foundation Pulse)
+
+*Note: Achieving the "Active-Silence" condition at these secondary frequencies requires precise calibration of the 24 AWG Warp Wire tension.*
 
 ## 🏗️ Hardware Assembly Guide
 
