@@ -48,7 +48,7 @@ To achieve the resonance lock, the coil must be wound to cancel self-induction.
 
 ## ✅ Verified Claims
 All patent claims have been verified against source files. 
-See the [verification notebook](notebooks/claim_verification.ipynb) for details.
+See the [verification notebook](Matter_Device_Analysis.ipynb) for details.
 
 ## 📜 License
 This project is licensed under the **GNU General Public License v3.0**. 
