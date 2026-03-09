@@ -46,6 +46,10 @@ To achieve the resonance lock, the coil must be wound to cancel self-induction.
 3. **Voltage Ramp:** Slowly increase the DC supply from **48V toward 120V**.
 4. **Verification:** Monitor for a collapse in magnetic flux (B -> 0) and a peak in the Magnetic Vector Potential (A).
 
+## ✅ Verified Claims
+All patent claims have been verified against source files. 
+See the [verification notebook](notebooks/claim_verification.ipynb) for details.
+
 ## 📜 License
 This project is licensed under the **GNU General Public License v3.0**. 
 *Note: This license includes an explicit patent grant to users of the software, as outlined in the GPL-3.0 text, while preserving the author's primary patent claims.*
