@@ -37,7 +37,7 @@ The foundation of the device is the 7-magnet array. The spacing is critical to e
 To achieve the resonance lock, the coil must be wound to cancel self-induction.
 1. **The Mandrel:** Use a non-metallic spool with a **1.0-inch** inner diameter.
 2. **The Double-Wrap:** Take two strands of **24 AWG Enameled Copper** wire and wind them simultaneously (side-by-side).
-3. **Turns:** Complete **144 turns** (optimized for the target range).
+3. **Turns:** Complete **22 turns** (optimized for the target range).
 4. **The Connection:** Connect the *end* of the first strand to the *start* of the second strand.
 
 ### Phase 3: The Lorentz-Trigger Integration
