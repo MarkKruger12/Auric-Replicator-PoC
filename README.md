@@ -50,6 +50,13 @@ To achieve the resonance lock, the coil must be wound to cancel self-induction.
 All patent claims have been verified against source files. 
 See the [verification notebook](Matter_Device_Analysis.ipynb) for details.
 
+## 📓 Simulation Results
+View the [interactive simulation notebook](Matter_Device_Analysis%20(2).ipynb) showing:
+- 148.5 kHz resonance peak (0.003 kHz accuracy)
+- B-field cancellation at center
+- A-field peak at center  
+- Active-Silence condition verification
+
 ## 📜 License
 This project is licensed under the **GNU General Public License v3.0**. 
 *Note: This license includes an explicit patent grant to users of the software, as outlined in the GPL-3.0 text, while preserving the author's primary patent claims.*
