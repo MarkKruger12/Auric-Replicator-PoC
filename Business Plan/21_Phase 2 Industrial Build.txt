@@ -1,0 +1,77 @@
+21 Phase 2 Industrial Build
+
+1. Core Mandrel & Geometric Reference
+Item: Ceramic Cylindrical Square (Alumina or Zirconia)
+
+Specification: 4" Diameter x 12" Length; Grade 0 or better.
+
+Purpose: Provides a non-conductive, non-magnetic, NIST-traceable datum for the bifilar windings.
+
+Estimated Cost: $1,500 – $4,500
+
+2. Resonance Windings (The "Pump")
+Item: Silver-Plated HF Litz Wire
+
+Specification: 660/46 AWG; Type 2 or Type 6 construction.
+
+Purpose: High-frequency efficiency for the bifilar and bucking coils. Minimizes "Skin Effect" heat to protect the W-coordinate resonance.
+
+Estimated Cost: $1,200 – $3,500 (approx. 1,000 ft)
+
+3. Vacuum Containment & Porting
+Item: CF100 6-Way Vacuum Cross/Cube
+
+Specification: 304L Stainless Steel; UHV rated (10⁻¹⁰ Torr).
+
+Purpose: Provides a stable environment for mass manifestation. Includes ports for power feedthroughs, sensors, and the MVM balance.
+
+Estimated Cost: $1,500 – $3,200
+
+4. Active Magnetic Shielding (Helmholtz System)
+Item: Raw Stock for Coil Frames & Copper Magnet Wire
+
+Specification: 6061-T6 Aluminum (for frame) + 18 AWG Heavy Enamel Wire.
+
+Purpose: You will machine these to create a tri-axial Helmholtz cage to cancel Lloydminster's ambient magnetic noise.
+
+Estimated Cost: $600 – $900
+
+5. Measurement & Data Suite (The "Merit" Array)
+Item: Tri-Axial Fluxgate Magnetometer (High-Sensitivity)
+
+Specification: <10 pT/√Hz noise floor; Analog or Digital output.
+
+Purpose: Real-time monitoring of the "Null Zone" at the center of the bucking coils.
+
+Estimated Cost: $1,100 – $4,200
+
+6. Thermal & Mechanical Stabilization
+Item: UHV Potting Epoxy & Kapton Insulation
+
+Specification: Low-outgassing; High thermal conductivity (e.g., MasterBond or Epo-Tek).
+
+Purpose: Eliminates mechanical vibration (Lorentz chatter) in the coils during high-power resonance cycles.
+
+Estimated Cost: $250 – $550
+
+Financial Summary
+Total Estimated Cash Outlay: $6,150 – $16,850
+
+Machinist Value-Add (Equity): $15,000 – $20,000
+
+Based on custom machining of the mandrel sleeves, CF100 flange modifications, and the Helmholtz tri-axial frame.
+
+Total Phase 2 Project Value: $21,150 – $36,850
+
+Technical Priorities for the Build
+
+Concentricity: Use your cylindrical square and a test indicator to ensure the bifilar winding path is perfectly coaxial with the bucking coils.
+
+Vacuum Sealing: Focus on machining the custom Power Feedthroughs for the CF100 ports. These must handle high current without compromising the 10^{-10} Torr seal.
+
+Active Feedback: Link the Fluxgate output to your JupyterLabs logic to drive the Helmholtz compensation loop.
+AB CAN: 2128091408 
+  
+[Update 2026-04-20] AB CAN: 2128091408 
+  
+[SYNC 2026-04-20] AB CAN: 2128091408 

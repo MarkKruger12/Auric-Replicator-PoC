@@ -1,0 +1,41 @@
+Regulatory Compliance & Legal Framework
+
+XTP-1 REGULATORY COMPLIANCE & LEGAL FRAMEWORK
+PROJECT: Galalith Bioplastics Inc. / X-Transport Protocol
+OPERATOR: Mark D. Kruger (Red Seal Machinist J-11-39912)
+
+1. FEDERAL COMPLIANCE (PRECIOUS METALS MARKING ACT)
+The output produced via the XTP-1 protocol is chemically, physically, and atomically identical to traditionally mined gold.
+
+Marking Standards: All commercial output will strictly adhere to the federal Precious Metals Marking Act (PMMA).
+
+Purity Certification: Any marks indicating quality (e.g., ".999 Fine" or "24K") will be accompanied by the registered trademark of Galalith Bioplastics Inc. as mandated by Industry Canada.
+
+National Mark: As a 100% domestically synthesized product, the output will be positioned for the National Mark (Maple Leaf in a 'C') application, certifying Canadian industrial origin.
+
+2. PROVINCIAL INDUSTRIAL ALIGNMENT
+The facility operates within the jurisdiction of the Lloydminster border city, aligning with the following provincial frameworks:
+
+Alberta: Bill 82 (Mineral Resource Development Act) – Supporting innovation in mineral processing and unconventional resource development.
+
+Saskatchewan: Growth Plan 2030 – Utilizing Lloydminster’s unique status to advance high-tech manufacturing and value-added mineral processing.
+
+3. ANTI-MONEY LAUNDERING & TRACEABILITY (FINTRAC)
+To ensure market integrity, Galalith Bioplastics Inc. operates under a "High-Tech Refinery" model:
+
+Verification: All synthesis cycles are logged via JupyterLab/GitHub (Digital Twin), providing an auditable "Chain of Origin" for every gram produced.
+
+Reporting: Full compliance with FINTRAC record-keeping requirements will be maintained to ensure transparency in the movement of high-value assets into the financial system.
+
+4. INTELLECTUAL PROPERTY STANDING
+The synthesis methodology is protected under active international filings, ensuring the bank’s collateral is backed by global IP:
+
+UKIPO (GB2604710.0): Under the Patent Prosecution Highway (PPH).
+
+USPTO (19/556,532): Provisional status secured February 2026.
+Alberta Business Corporations Act (CAN 2128091408) 
+AB CAN: 2128091408 
+  
+[Update 2026-04-20] AB CAN: 2128091408 
+  
+[SYNC 2026-04-20] AB CAN: 2128091408 

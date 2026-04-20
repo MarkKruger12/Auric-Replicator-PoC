@@ -1,0 +1,58 @@
+STATEMENT OF CAPABILITY AND INDUSTRIAL EXPERIENCE
+PROJECT: XTP-1 AURIC SYNTHESIS
+
+I. EXECUTIVE SUMMARY OF EXPERTISE
+Mark D. Kruger is a Canadian Red Seal and Alberta Qualified Journeyman 
+Machinist (Certificate J-11-39912) with over 35 years of specialized 
+experience in precision manufacturing. This capability statement outlines 
+the fusion of heavy-industry mechanical discipline with advanced 
+theoretical physics, providing a unique operational foundation for the 
+XTP-1 Auric Synthesis project.
+
+II. INDUSTRIAL MANUFACTURING & OIL AND GAS SECTOR EXPERIENCE
+The Director's 35-year tenure in the Western Canadian Sedimentary Basin 
+(WCSB) has established a mastery over mission-critical industrial 
+hardware, specifically:
+
+* High-Pressure Systems: Expert fabrication and repair of industrial 
+  pump systems and fluid-handling equipment designed to operate under 
+  extreme pressures.
+* Downhole Tooling: Precision machining of specialized components for 
+  the drilling and completions sector, where mechanical failure is 
+  not an option.
+* Tight Tolerance Machining: Consistent execution of parts to 
+  0.0001-inch tolerances, utilizing high-grade alloys and specialized 
+  materials.
+* Metrology & Quality Control: Proficient in advanced measurement 
+  protocols to ensure 99.8% precision benchmarks are met before any 
+  component leaves the shop floor.
+
+III. THEORETICAL & COMPUTATIONAL COMPETENCY
+Complementing the mechanical foundation is a deep background in 
+mathematics and physics, enabling the transition from traditional 
+manufacturing to solid-state synthesis:
+
+* Academic Foundation: Physics and Mathematics Faculty, Moscow State 
+  University; Mechanical Engineering Technician, George Brown College.
+* Computational Simulation: Development of Python-based models to 
+  simulate the XTP-1 protocol, utilizing non-binary logic systems 
+  (Belnap 4-valued logic) and topological geometry.
+* logical mechanics Validation: Demonstrated ability to program and execute logic 
+  circuits on IBM logical mechanics hardware (ibm_fez), bridging the gap between 
+  digital logic and physical synthesis.
+
+IV. OPERATIONAL READINESS
+Galalith Bioplastics Inc. operates with an "Oilfield-Hardened" mindset. 
+This means:
+1. Safety First: Adherence to rigorous industrial safety protocols.
+2. Maintenance Excellence: Direct, Red Seal-level maintenance of the 
+   $50,000 CSBFP-funded asset pool (N52 arrays, quartz resonators, 
+   modulators).
+3. In-House Metrology: No reliance on third-party calibration, reducing 
+   operational overhead and ensuring absolute quality control over the 
+   synthesized output.
+AB CAN: 2128091408 
+  
+[Update 2026-04-20] AB CAN: 2128091408 
+  
+[SYNC 2026-04-20] AB CAN: 2128091408 

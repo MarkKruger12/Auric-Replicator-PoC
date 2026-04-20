@@ -1,0 +1,79 @@
+FINANCIAL PROJECTIONS
+
+PROJECT: XTP-1 AURIC SYNTHESIS
+
+I. FUNDING REQUEST: CSBFP TERM LOAN
+
+Total Loan Request: $110,000.00 CAD
+Industrial Equipment (Class 4): $50,000.00
+N52 Magnetic Arrays, Synthetic Quartz Resonators, and Precision Machined Housing.
+Leasehold Improvements (Lab Space): $45,000.00
+Electrical upgrades for 3-Phase power, dedicated grounding for resonant arrays, and vibration-damped floor reinforcement.
+Working Capital / Intangible Assets: $15,000.00
+Initial facility rent, security deposits, and patent-related legal fees.
+
+II. FACILITY LEASING & OPERATIONAL OVERHEAD
+
+1. Lab Space Target (Lloydminster Industrial Corridor)
+Estimated Monthly Lease: $2,800 - $3,500 (plus triple-net costs).
+Requirement: Industrial-grade facility capable of supporting "Solid-State Synthesis."
+Risk Mitigation: The facility is dry and zero-effluent, requiring no high-risk environmental permits, which lowers the landlord???s liability and insurance premiums.
+
+2. Corporate Vehicle Lease (Logistics)
+Budget: $1,100/month (before tax).
+Justification: Secure transport of high-value 4N (99.99%) gold feedstock and precision components.
+Tax Efficiency: Targeted at the 2026 CRA maximum deductible limit for Class 10.1/Class 54 vehicles to optimize the corporate balance sheet.
+
+III. REVISED LENDER COLLATERAL POSITION
+
+By increasing the loan amount to include facility improvements, the collateral pool for [BANKING TRANSITION IN PROGRESS] is expanded:
+Physical Assets: $100,000+ (New $50k equipment + $50,100 existing inventory).
+Leasehold Security: The $45,000 in improvements (3-phase power, specialized grounding) becomes a permanent asset of the corporation, secured by the CSBFP 85% government guarantee.
+DSCR Stability: Despite the higher loan amount, the 99.99% gold production yield targets maintain a Debt Service Coverage Ratio well above the 1.25x industry benchmark.
+
+IV. INTELLECTUAL PROPERTY & PATENTING COSTS
+
+The preservation of the XTP-1 Protocol is the primary driver of corporate valuation. Galalith Bioplastics Inc. maintains a lean, multi-jurisdictional filing strategy designed to maximize protection while minimizing early-stage burn rates.
+
+1. USPTO Filing Strategy (United States)
+
+Current Status: Provisional Patent Application #19/556,532 filed Feb 13, 2026.
+Entity Status: Micro Entity (qualifies for 80% fee reduction based on income and prior filing history).
+Cost Projection (Conversion to Non-Provisional):
+Basic Filing, Search, and Examination: $400 CAD (est. after conversion).
+Issue Fee: $350 CAD.
+Note: Accelerated examination is being pursued to shorten the "Patent Pending" window to under 12 months.
+
+2. UKIPO & International Filing (UK/Global)
+
+Current Application: GB2604710.0.
+Strategic Advantage: Utilizing the UK Intellectual Property Office for initial search and examination due to lower cost-of-entry and high-speed processing.
+Patent Prosecution Highway (PPH): By securing a "Notice of Allowance" in the UK, we can fast-track the USPTO and Canadian (CIPO) applications at zero additional government cost.
+Cost Projection: $550 CAD for international search and examination fees.
+
+3. Maintenance & Legal Reserves
+
+Maintenance Fees (Year 3.5): Budgeted at $600 CAD (Micro Entity rate).
+Legal Support: $8,500 CAD allocated within the $110,000 CSBFP request for professional patent drafting and responding to Office Actions.
+
+4. Tax Incentive Recovery (CRA SR&ED)
+
+SR&ED Eligibility: As the XTP-1 involves "Experimental Development" and "Systematic Investigation," a significant portion of the technical labor and patent-related experimentation costs are eligible for the Scientific Research and Experimental Development (SR&ED) tax credit.
+Recovery Rate: Target recovery of 35% on eligible expenditures, which will be reinvested into the Year 2 intellectual capital pool.
+
+Phase,                                            Cost (CAD),                          Timeline
+Initial Filing (Provisional),                 $150 (Paid),                    Completed Feb 2026
+Global PPH Prosecution,                     "$9,500",                     Q3 2026 - Q2 2027
+Final Grant/Issue Fees,                         "$1,200",                             Q4 2027
+Total IP Investment,                             "$10,850",                    36-Month Lifecycle
+
+AB CAN: 2128091408 
+  
+[Update 2026-04-20] AB CAN: 2128091408 
+  
+[SYNC 2026-04-20] AB CAN: 2128091408 
+Spot Price Baseline: $5,175 CAD/oz ($166.40 CAD/gram). 
+Monthly Debt Service: ~$2,500.00 CAD (Estimated on $125k @ 7.5%% over 5 years). 
+Break-Even Production: 15.02 grams/month to cover loan principal and interest. 
+Target Yield: 90.00 grams/month (Projected 6.0x DSCR). 
+Purity Premium: 15%% markup for 4N/6N semiconductor-grade certified material. 

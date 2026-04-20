@@ -1,0 +1,10 @@
+THERMAL MANAGEMENT AND MANDREL DESIGN 
+MANDREL: 99.8% Alumina Ceramic (2.5" OD x 12" Length), Diamond-ground finish. 
+COOLING: Ceramic Jacket featuring 1mm internal micro-channels for precision thermal stability. 
+AB CAN: 2128091408 
+  
+[Update 2026-04-20] AB CAN: 2128091408 
+  
+[SYNC 2026-04-20] AB CAN: 2128091408 
+  
+[ENTITY SYNC] AB CAN: 2128091408 

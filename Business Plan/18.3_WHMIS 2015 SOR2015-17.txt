@@ -1,0 +1,44 @@
+18.3 WHMIS 2015 SOR2015-17
+
+1. APPLICATION OF SECTION 18.2 (LABORATORY EXEMPTIONS)
+
+This document confirms that proprietary substances created during the XTP-1 Protocol are classified as Laboratory Samples under the following criteria:
+
+Mass Constraint: All internal synthesis samples are maintained in containers of less than 10 kilograms.
+Intent of Use: These materials are intended solely for internal analysis, testing, or evaluation to refine the Auric Synthesis process.
+Developmental Status: As these materials are "not yet available on the market" and their toxicological properties are being established, they fall under the Research and Development labeling exemptions.
+
+2. WORKPLACE LABELING PROTOCOL (MODIFIED REQUIREMENTS)
+
+In accordance with the flexibility provided by WHMIS for laboratory settings, all decanted or created substances that are not immediately used must bear a Workplace Label containing:
+
+Product Identifier: The specific protocol code (e.g., "XTP-1 Precursor-A").
+Chemical Identity: The generic chemical identity of hazardous ingredients, if known.
+Emergency Statement: "Hazardous Laboratory Sample. For hazard information or in an emergency, call [Your Emergency Number]."
+SDS Reference: A notation indicating if a full Safety Data Sheet is available or if the material is currently under "Active Seeking" status (max 120 days).
+
+3. PROTECTION OF CONFIDENTIAL BUSINESS INFORMATION (CBI)
+
+To protect International IP and Patent Filings (UKIPO GB2604710.0), Section 18.2 allows for the masking of specific ingredient identities and concentrations:
+Generic Naming: Hazardous ingredients may be identified by their functional category (e.g., "Sintered Rare Earth Complex") rather than exact chemical formulas to prevent reverse-engineering of the N52 Magnetic Array interactions.
+HMIRA Filing: If the business plan expands to third-party collaboration, a formal Hazardous Materials Information Review Act (HMIRA) registry number will be obtained to legally withhold proprietary concentrations while maintaining safety compliance.
+
+4. RED SEAL OVERSIGHT & WORKER EDUCATION
+
+As the Director and a Qualified Red Seal Machinist, Mark D. Kruger is responsible for:
+
+Annual Review: Consulting on and reviewing the hazard communication plan every 12 months.
+Metrology Integration: Ensuring that physical hazards—such as the 0.0005"/ft leveling of magnetic arrays—are communicated as "Physical Hazards Not Otherwise Classified" (PHNOC) within the site-specific WHMIS training.
+
+5. DECLARATION OF COMPLIANCE
+
+"The Wainwright facility operates in alignment with the WHMIS 2015 laboratory exemptions. We prioritize the 'Right to Know' for any personnel on-site while utilizing the legal protections for Research and Development assets."
+
+Signature: __________________________
+
+Mark D. Kruger, Director
+AB CAN: 2128091408 
+  
+[Update 2026-04-20] AB CAN: 2128091408 
+  
+[SYNC 2026-04-20] AB CAN: 2128091408 

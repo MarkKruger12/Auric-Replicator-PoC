@@ -1,0 +1,35 @@
+18.2 Transportation of Dangerous Goods Regulations
+
+1. REGULATORY COMPLIANCE STATEMENT
+This shipment is conducted under the 150 kg Gross Mass Exemption (TDG Regulations, Section 1.15).
+
+Total Mass: The combined gross mass of all equipment and synthesis materials is confirmed to be less than 150 kg.
+
+Containment: No individual component or container exceeds a gross mass of 30 kg, ensuring compliance with the small-means-of-containment provision for this exemption.
+
+Industrial Use: These assets are transported for the purpose of advancing the XTP-1 Auric Synthesis Protocol, currently at a TRL 4/5 development status.
+
+2. ASSET INVENTORY & HAZARD CLASSIFICATION
+
+N52 Magnetic Arrays: High-coercivity sintered NdFeB ; requires 0.0005"/ft structural leveling.
+Quartz Resonators: Optical-grade synthetic quartz; 0.0005mm tolerance.Precision 
+Housings: Proprietary containment units with 0.0001" machined tolerances.
+Signal Modulator: High-frequency arbitrary waveform generator (9kHz to 3GHz).
+
+3. OPERATIONAL SAFETY & MITIGATION PROTOCOLS
+
+Magnetic Flux Containment: A safe shutdown of the magnetic arrays has been executed to prevent flux leakage during transit.
+Environmental Stabilization: To protect the frequency-stabilizing hardware, the vehicle environment is climate-controlled and vibration-dampened.
+Humanitarian Mitigation: Transport conditions are optimized for a 15-year-old senior canine , ensuring a low-stress transition that maintains the integrity of the sensitive optical resonators.
+Asset Protection: All components are secured to prevent mechanical disruption, as any displacement without these protocols risks irreparable damage to the project's International IP and patent filings (UKIPO GB2604710.0).
+
+4. DECLARATION
+"I, Mark D. Kruger, solemnly declare that the information in this statement is true and reflects the actual technical and operational requirements of the synthesis facility." 
+
+Signature: __________________________
+Mark D. Kruger, Director
+AB CAN: 2128091408 
+  
+[Update 2026-04-20] AB CAN: 2128091408 
+  
+[SYNC 2026-04-20] AB CAN: 2128091408 

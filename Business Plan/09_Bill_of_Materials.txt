@@ -1,0 +1,61 @@
+FILE 04: BILL OF MATERIALS (BOM) & ASSET ACQUISITION
+PROJECT: XTP-1 AURIC SYNTHESIS PHASE I
+TOTAL BUDGET: $50,000 CAD
+
+I. PRIMARY ACTUATOR COMPONENTS (MAGNETICS)
+
+Item: N52 Neodymium-Iron-Boron (NdFeB) Magnetic Arrays
+Specifications: Grade N52, Sintered, Ni-Cu-Ni Plating, High-Coercivity
+HS Code: 8505.11.00.70 (Sintered Neodymium-Iron-Boron)
+Quantity: 4 Units (Custom Multi-Pole Assembly)
+Estimated Cost: $18,500 CAD
+Purpose: Core magnetic field generation for ballistic transport.
+
+II. RESONANCE & FREQUENCY CONTROL
+
+Item: Optical-Grade Synthetic Quartz Resonator Cavity
+Specifications: Synthetic High-Purity Quartz, 0.0005mm Tolerance
+HS Code: 7104.10.00.00 (Synthetic Piezo-Electric Quartz)
+Quantity: 2 Units
+Estimated Cost: $12,000 CAD
+Purpose: Precision frequency stabilization for molecular lattice alignment.
+
+III. SIGNAL MODULATION & POWER SYSTEMS
+
+Item: Precision Signal Modulator / Arbitrary Waveform Generator
+Specifications: 9kHz to 3GHz Range, 0.1dB Resolution, Low-Phase Noise
+HS Code: 8543.20.00.00 (Signal Generators)
+Quantity: 1 Unit (Bench-Grade Industrial)
+Estimated Cost: $9,500 CAD
+Purpose: XTP-1 Protocol signal injection and waveform management.
+
+IV. THERMAL MANAGEMENT & CABINETRY
+
+Item: Laboratory Grade Shielding & Thermal Regulation Unit
+Specifications: EMI/RFI Shielding, Vibration Damping Bench, Lead-Lined
+HS Code: 9403.10.00.00 (Metal Office/Lab Furniture)
+Quantity: 1 System
+Estimated Cost: $6,500 CAD
+Purpose: Protection of sensitive magnetic nodes and environmental stability.
+
+V. COMPLIANCE & CONTINGENCY
+
+Item: Shipping, Duties, and Calibration Reserves
+Estimated Allocation: $3,500 CAD
+Note: Utilizing Saskatchewan PST Exemption for Manufacturing (SK0001) 
+and Federal SR&ED eligibility for advanced materials synthesis.
+
+TOTAL ASSET VALUE: $50,000 CAD
+AB CAN: 2128091408 
+  
+[Update 2026-04-20] AB CAN: 2128091408 
+  
+[SYNC 2026-04-20] AB CAN: 2128091408 
+[ASSET SPECIFICATION UPDATE 2026-04-20] 
+1. N52 Neodymium Magnetic Arrays: Optimized for Dirac fermion experiments. 
+2. Synthetic Quartz Resonators: Frequency baseline for XTP-1 solid-state refinement. 
+3. Mechanical Tolerance: 0.0001-inch precision as per Red Seal standards. 
+[EQUIPMENT UTILITY] 
+N52 Arrays: These provide the magnetic confinement required for Dirac fermion stability within the carbon medium. 
+Synthetic Quartz: Serves as the frequency oscillator to maintain the precise resonance of the X-Transport Protocol. 
+Verification: All physical setups are cross-referenced against JupyterLab 'hex_coords.py' simulations for 0.0001-inch alignment. 

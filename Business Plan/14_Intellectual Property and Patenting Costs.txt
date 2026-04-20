@@ -1,0 +1,44 @@
+FILE 14: INTELLECTUAL PROPERTY & PATENTING COST ANALYSIS
+
+PROJECT: Galalith Bioplastics Inc. / X-Transport Protocol (XTP)
+
+DIRECTOR: Mark D. Kruger
+
+USPTO PROVISIONAL NO: 63/955,532 (Filed: Feb 13, 2026)
+
+1. EXECUTIVE SUMMARY OF IP ASSET & ACCELERATION STRATEGY
+
+Galalith Bioplastics Inc. (Primary) and its technology division, XTP Technologies, operate under a unified global IP framework. Utilizing the Paris Convention, we have secured a global priority date of February 13, 2026, for the X-Transport Protocol.
+
+To maximize the valuation of the company's intangible assets within the current fiscal year, we utilize the Patent Prosecution Highway (PPH). This international agreement enables us to use the expedited examination results from the UKIPO (Application No. GB2604710.0) to fast-track patent grants in the USPTO and CIPO. This acceleration is achieved at null additional government fee, ensuring that the XTP-1 methodology is transitioned from "Pending" to "Granted Asset" status on an accelerated timeline, providing robust collateral for corporate financing.
+
+2. PROJECTED PATENTING COSTS (24-MONTH HORIZON)  ITEM / PHASE  JURISDICTION  STATUS                   COST (EST. CAD) 
+                                
+ Provisional Filing                                                                               USPTO (USA)                     COMPLETED (63/955,532)          $105 
+ Non-Provisional Conversion                                                               USPTO (USA)                     Micro Entity                                 $650 
+ National Phase Entry                                                                          CIPO (Canada)                     Small Entity                                  $241 
+ Examination Request                                                                         CIPO (Canada)                     Small Entity                                   $482 
+ UKIPO Completion Fees                                                                   UKIPO (UK)                        Standard  (GB2604710.0)              $520 
+ IP Legal & Drafting Buffer                                                                       General                           Contingency                                 $1,000 
+
+ TOTAL ALLOCATED BUDGET                                                                                                                                                     $2,998 
+
+3. Key Execution Timeline
+
+Prior to April 1, 2026: Finalize UKIPO fees to lock in current rates before the ~25% increase.
+
+Post-UK Search Result: File the PPH Request forms in the US and Canada to trigger the free acceleration.
+
+February 13, 2027: Deadline to finalize the Paris Convention priority claims for any additional international jurisdictions.
+
+4. STRATEGIC COST MITIGATION  Micro/Small Entity Discounts: The company qualifies for "Micro Entity" status in the US and "Small Entity" status in Canada. This provides an 80% reduction in most USPTO fees and a 50% reduction in CIPO fees compared to large corporations.
+The PPH Advantage: By fast-tracking the application through the PPH, we significantly reduce the legal fees associated with repetitive "Office Actions" and re-drafting.
+
+Intangible Asset Value: These filings serve as formal collateral for the $50,000 loan, ensuring the "recipe" for the gold synthesis is legally secured and internationally recognized.
+
+5. LOAN ALLOCATION These costs are factored into the $50,000 CSBFP loan request under the "Operational Readiness and IP Protection" line item. This ensures the company’s technology is shielded from the first day of full-scale production.
+AB CAN: 2128091408 
+  
+[Update 2026-04-20] AB CAN: 2128091408 
+  
+[SYNC 2026-04-20] AB CAN: 2128091408 
